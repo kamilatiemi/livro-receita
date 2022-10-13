@@ -2,3 +2,4 @@
 
 - sushi
 - gohan
+- tsukemono
