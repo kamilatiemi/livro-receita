@@ -2,4 +2,3 @@
 
 - sushi
 - gohan
-- mochi
